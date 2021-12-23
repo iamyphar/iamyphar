@@ -1,5 +1,5 @@
   <p align="center" dir="auto">
-<img src="https://avatars.githubusercontent.com/u/28509875?" alt="Yphar profile pic" data-canonical-src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/28509875?v=4&amp;h=300&amp;w=300&amp;fit=cover&amp;mask=circle&amp;maxage=7d" style="max-width: 100%; border-radius:500px;">       <br><br>
+<img src="https://avatars.githubusercontent.com/u/28509875?" alt="Yphar profile pic" style="max-width: 100%; border-radius:500px;">       <br><br>
     Hello and welcome to my GitHub profile !
     <br>
     <br>
