@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/yphar_" target="blank"><img src="https://img.shields.io/twitter/follow/yphar_?logo=twitter&style=for-the-badge" alt="yphar_" /></a> </p>
 
-- 💬 Ask me about **html, css and javascript**
-
-- 📫 How to reach me **@Yphar_ on twitter**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yphar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yphar_" height="30" width="40" /></a>
