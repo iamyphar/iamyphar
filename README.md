@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yphar</h1>
-<h3 align="center">Apprentice at format-z in first year</h3>
+<h3 align="center">Apprentice at format-z in second year</h3>
 
 <p align="left"> <a href="https://twitter.com/yphar_" target="blank"><img src="https://img.shields.io/twitter/follow/yphar_?logo=twitter&style=for-the-badge" alt="yphar_" /></a> </p>
 
